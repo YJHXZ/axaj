@@ -1,0 +1,375 @@
+body {
+	font-family: "微软雅黑";
+	font-size: 16px;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+h1 h2 h3 h4 h5 h6 {
+	font-family: "微软雅黑";
+}
+.content {
+	width: 100%;
+	height: 840px;
+}
+.content-top {
+	width: 100%;
+	height: 5%;
+}
+#timeShow  {
+	margin-top: 0.5em;
+	float: left;
+}
+#timeSunday {
+	margin-top: 0.5em;
+	float: left;
+}
+#timeData{
+	margin-top: 0.5em;
+	float: left;
+}
+.top-left {
+	width: 100%;
+}
+.top-middle {
+	width: 65%;
+	height: 60%;
+	margin-left: 25rem;
+	position: relative;
+	top: 1em;
+}
+.top-right {
+	width: 8%;
+	height: 80%;
+	float: right;
+	margin-top: -1.3rem;
+	margin-right: 2rem;
+}
+.content-left {
+	width: 30%;
+	height: 100%;
+	float: left;	
+}
+.content-moddle {
+	width: 40%;
+	height: 100%;
+	float: left;	
+}
+.content-right {
+	width: 30%;
+	height: 100%;
+	float: left;
+}
+.left-top {
+	width: 100%;
+	height: 33.3333333%;
+}
+.left-middle {
+	width: 100%;
+	height: 33.3333333%;
+}
+
+}
+.left-buttom {
+	width: 100%;
+	height: 33.3333333%;
+}
+.moddle-top {
+	width: 100%;
+	height:25%;
+}
+.moddle-buttom {
+	width: 100%;
+	height: 75%;
+}
+.right-top {
+	width: 100%;
+	height: 33.3333333%;
+}
+.right-middle {
+	width: 100%;
+	height: 33.3333333%;
+}
+.right-buttom {
+	width: 100%;
+	height: 33.3333333%;
+}
+.aji-tilet {
+	font-size: 20px;
+	text-align: center;
+	padding-right: 8em;
+	position: relative;
+	top:-0.5em;
+}
+.sda {
+	height: 290px;
+}
+.sda {
+	width:100% ;
+	margin-top: 1rem;
+	margin-bottom: 1em;
+	margin-left: 1em;
+}
+.s {
+	width: 100%;
+	height: 70%;
+	position: relative;
+	top: 1em;
+	margin-left: 1em;
+	overflow-x: hidden;
+}
+.si {
+	width: 100%;
+	height: 65%;
+	position: relative;
+	top: 1em;
+	margin-left: 1em;
+	overflow-x: scroll;
+}
+.sik {
+	width: 100%;
+	height: 70%;
+	position: relative;
+	top: 1em;
+	margin-left: 1em;
+	overflow-x: scroll;
+}
+.sik::-webkit-scrollbar{
+	display: none;
+}
+.si::-webkit-scrollbar {
+	display: none;
+}
+.s::-webkit-scrollbar {
+	display: none;
+}
+.sji {
+	width: 45%;
+	height: 20%;
+	position: relative;
+	top: 0.5em;
+	left: 1em;
+	font-size: 20px;
+	text-align: center;
+	line-height: 50px;
+	color: #FFFFFF;
+	float: left;
+	background: url(../imga/left4.png);
+	background-size: 100% 100%;
+}
+.jk {
+	width: 5%;
+	float: left;
+	color: #FFFFFF;
+	margin-right: 0.2em;
+}
+.mc {
+	width: 90%;
+	float: left;
+	color: #3ED4E1;
+}
+.kl {
+	width: 90%;
+	float: left;
+	color: #3ED4E1;
+}
+.jklo {
+	padding-left: 1em;
+}
+.wd {
+	color: #36B2C1;	
+}
+.sz {
+	padding-right: 0.5em;
+}
+.sind {
+	width: 50%;
+	float: left;
+	text-align: right;
+	padding-top: 2em;
+	color: #FFFFFF;
+}
+.img {
+	
+	margin-left: 2em;
+	position: relative;
+	top:1em;
+}
+.xl-text {
+	padding-left:3.2em;
+	padding-top: 1em;
+	color: #FFFFFF;
+}
+.xl-jin {
+	padding-left: 3em;
+	color: #FFFFFF;
+}
+#d1 {
+	padding-left: 2.8em;
+	color: #FFFFFF;
+}
+#b1 {
+	padding-left: 2.8em;
+	color: #FFFFFF;
+}
+#c1 {
+	padding-left: 2.8em;
+	color: #FFFFFF;
+}
+#a1 {
+		padding-left: 2.8em;
+		color: #FFFFFF;
+}
+.moddle-left1 {
+	width: 25%;
+	height: 100%;
+	float: left;
+}
+.moddle-left2 {
+	width: 25%;
+	height: 100%;
+	float:left;
+}
+.moddle-left3 {
+	width: 25%;
+	height: 100%;
+	float: left;
+}.moddle-left4 {
+	width: 25%;
+	height: 100%;
+	float: left;
+}
+.zs {
+	padding-left: 3.2em;
+	padding-top: 0.3em;
+	color: #36B2C1;
+}
+.bei-da {
+	width: 100%;
+	height: 11%;
+}
+.dlet {
+	width: 20%;
+	font-size: 20px;
+	color: #0AEBFF;
+	margin-left: 1em;
+	text-align: center;
+	float: left;
+	position: relative;
+	top: 1em;	
+}
+.skl {
+	width: 50%;
+	float: left;
+	color: #FFFFFF;
+	font-size: 30px;
+	position: relative;
+	top: 0.4em;
+}
+.bei-s {
+	width: 90%;
+	height: 4%;
+	padding: 0 2em;
+	word-break: keep-all;
+	white-space: nowrap;
+	
+}
+.bei-a {
+	width: 25%;
+	height: 50%;
+	float: left;
+	border-radius: 37%;
+	background: -webkit-linear-gradient(left,#14AABC,#1A405D);
+	margin-left: 2em;
+	color: white;
+}
+.sll {
+	width: 20%;
+	height: 100%;
+}
+.kj {
+	width: 90%;
+	height: 50%;
+	margin: 0 2em;
+	border: 1px solid #36B2C1;
+}
+.shj {
+	width: 90%;
+	height:35%;
+	margin: 0px 2em;
+}
+#jin {
+	width: 100%;
+	height: 100%;
+}
+#qd {
+	width: 100%;
+	height: 100%;
+	display: -webkit-box;
+	overflow-y: hidden;
+}
+#qd::-webkit-scrollbar{
+	display: none;
+}
+.jks {
+	float: right;
+}
+.jinl {
+	padding-right: 8em;
+}
+.tsad {
+	width:100%;
+	height: 10%;
+	padding-top: 1em;
+	padding-left: 1em;
+	font-size: 20px;
+	color: #36B2C1;
+}
+.tsad span {
+	padding-left: 0.5em;	
+}
+.jxk {
+	width: 100%;
+	height: 85%;
+}
+.jxk .jkl {
+	float: left;
+	font-size: 20px;
+	padding-left: 2em;
+	padding-top:5em;;
+	color: #36B2C1;
+}
+.jxk .sk {
+	width: 35%;
+	height: 60%	;
+	color: #FFFFFF;
+	font-size: 52px;
+	background: #068792;
+	float: left;
+	text-align: center;
+	margin-left: 1em;
+	margin-top: 0.5;
+}
+.sk span {
+	position: relative;
+	top: 0.8em;
+}
+.lhjd {
+	width: 45%;
+	padding-right: 2.1em;
+	float: left;
+}
+.jhjd-i {
+color: #36B2C1;
+}
+.jhjd-w {
+	color: #FFFFFF;
+	padding-right: 0.2em;
+}
+.hasda {
+	float: right;
+	color: #FFFFFF;
+}
+.jhjd-s {
+	float: right;
+	color: #FFFFFF;
+}
